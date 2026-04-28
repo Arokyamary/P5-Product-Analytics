@@ -46,6 +46,7 @@ to determine which converts better using Bayesian statistical inference.
 
 ## Project Architecture
 
+```
 P5_ProductAnalytics/
 ├── data/
 │   ├── users.csv
@@ -58,6 +59,7 @@ P5_ProductAnalytics/
 ├── app.py
 └── requirements.txt
 
+```
 
 
 ---
