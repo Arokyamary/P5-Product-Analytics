@@ -44,6 +44,7 @@ to determine which converts better using Bayesian statistical inference.
 
 ---
 
+---
 ## Project Architecture
 
 P5_ProductAnalytics/
@@ -57,6 +58,8 @@ P5_ProductAnalytics/
 ├── bayesian_ab.py
 ├── app.py
 └── requirements.txt
+
+---
 
 ---
 
